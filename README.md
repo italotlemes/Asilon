@@ -1,17 +1,20 @@
-Asilon
+# Asilon
 
-- Oferecer uma solução completa para a gestão de asilos
-- Simplificar e automatizar tarefas
-- Melhorar a eficiência e produtividade
-- Aumentar a qualidade de vida dos idosos
+Asilon é um software que oferece uma solução completa para a gestão de asilos, tem como objetivo simplificar e automatizar tarefas, melhorar a eficiência e produtividade e aumentar a qualidade de vida dos idosos.
 
-- Gerenciamento de visitas
-- Gerenciamento financeiro
-- Gerenciamento de doações
-- Gerenciamento de rotina
-- Relatórios e análises
+# Dados Necessários
+O Projeto contribuirá com as seguintes funcionalidades:
 
-- Número de residentes: Total, por sexo, por faixa etária, por tipo de dependência.
-Ocupação: Número de leitos ocupados e disponíveis.
-Média de idade: Dos residentes.
-Índice de satisfação: Dos residentes e familiares.
+ - Gerenciamento de visitas
+ - Financeiro
+ - Doações
+ - Rotina
+ - Relatórios de análises
+ 
+ Para que essas funcionalidades sejam realizadas é necessário dados como:
+ 
+ - Login (e-mail e senha)
+ - número de internos no asilo
+ - sexo
+ - faixa etária
+ - dependências
