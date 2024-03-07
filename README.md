@@ -18,3 +18,9 @@ O Projeto contribuirá com as seguintes funcionalidades:
  - sexo
  - faixa etária
  - dependências
+
+
+## Stakeholders
+
+ - Asilos
+ - Clinicas de acompanhamento ao idoso
